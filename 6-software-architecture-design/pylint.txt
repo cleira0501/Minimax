@@ -1,0 +1,13 @@
+************* Module tic_tac_toe_view
+tic_tac_toe_view.py:10:0: C0301: Line too long (83/80) (line-too-long)
+tic_tac_toe_view.py:26:0: C0301: Line too long (92/80) (line-too-long)
+tic_tac_toe_view.py:33:0: C0301: Line too long (97/80) (line-too-long)
+tic_tac_toe_view.py:39:0: C0301: Line too long (86/80) (line-too-long)
+************* Module tic_tac_toe_controller
+tic_tac_toe_controller.py:27:0: C0301: Line too long (92/80) (line-too-long)
+tic_tac_toe_controller.py:35:0: C0301: Line too long (82/80) (line-too-long)
+
+----------------------------------------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 10.00/10, -0.29)
+Checked 8 files, skipped 0 files
+

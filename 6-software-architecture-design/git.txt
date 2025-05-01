@@ -1,0 +1,29 @@
+commit 8f77fd7b1ca95172667775ceb0b5d62bb63719c2
+Author: Ariel <ariel920501@gmail.com>
+Date:   Fri Apr 12 18:20:09 2024 -0400
+
+    completed assgn6 with functional tictactoe game
+
+M	assignments/6-software-architecture-design/tic_tac_toe_controller.py
+M	assignments/6-software-architecture-design/tic_tac_toe_game.py
+M	assignments/6-software-architecture-design/tic_tac_toe_view.py
+
+commit 5d9d3c6ca47ed7894dd35754b8bdc0d463d8da3b
+Author: Steve Matsumoto <git.65e8e3@sporic.me>
+Date:   Tue Apr 9 10:51:02 2024 -0400
+
+    Add Assignment 6 starter files
+
+A	assignments/6-software-architecture-design/6-software-architecture-design.qmd
+A	assignments/6-software-architecture-design/rubric-6.md
+A	assignments/6-software-architecture-design/static/abc.png
+A	assignments/6-software-architecture-design/static/concrete.jpg
+A	assignments/6-software-architecture-design/static/mvc.png
+A	assignments/6-software-architecture-design/test_common.py
+A	assignments/6-software-architecture-design/test_tic_tac_toe_controller.py
+A	assignments/6-software-architecture-design/test_tic_tac_toe_game.py
+A	assignments/6-software-architecture-design/test_tic_tac_toe_view.py
+A	assignments/6-software-architecture-design/tic_tac_toe_board.py
+A	assignments/6-software-architecture-design/tic_tac_toe_controller.py
+A	assignments/6-software-architecture-design/tic_tac_toe_game.py
+A	assignments/6-software-architecture-design/tic_tac_toe_view.py
